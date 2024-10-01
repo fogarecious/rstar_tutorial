@@ -9,7 +9,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 ## Contents
 
-* Setting Up
+* [Setting Up](./tutorial/setting_up.md)
 * Number Of Elements
 * Element Iterations
 * Insertion
