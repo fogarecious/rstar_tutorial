@@ -20,6 +20,6 @@ The dependencies in `Cargo.toml` file should look like this:
 rstar = "0.12.0"
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Number Of Elements](./number_of_elements.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
