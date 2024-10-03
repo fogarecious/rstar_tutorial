@@ -25,6 +25,6 @@ Output:
 It outputs `0` because there is no points in the tree.
 We will talk about point insertions later.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Element Iterations](./element_iterations.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

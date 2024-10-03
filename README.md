@@ -11,7 +11,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 * [Setting Up](./tutorial/setting_up.md)
 * [Number Of Elements](./tutorial/number_of_elements.md)
-* Element Iterations
+* [Element Iterations](./tutorial/element_iterations.md)
 * Insertion
   * Inserting One Element At A Time
   * Inserting Elements In A Batch
