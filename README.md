@@ -13,7 +13,7 @@ We try to keep each part of the tutorial as simple as possible.
 * [Number Of Elements](./tutorial/number_of_elements.md)
 * [Element Iterations](./tutorial/element_iterations.md)
 * Insertion
-  * Inserting One Element At A Time
+  * [Inserting One Element At A Time](./tutorial/inserting_one_element_at_a_time.md)
   * Inserting Elements In A Batch
 * Useful Queries
   * Existence Queries

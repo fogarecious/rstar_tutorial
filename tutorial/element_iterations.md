@@ -16,6 +16,6 @@ fn main() {
 
 We can also use [iter](https://docs.rs/rstar/latest/rstar/struct.RTree.html#method.iter) and [iter_mut](https://docs.rs/rstar/latest/rstar/struct.RTree.html#method.iter_mut) to obtain an (mutable) iteration of the elements in the tree.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Inserting One Element At A Time](./inserting_one_element_at_a_time.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
