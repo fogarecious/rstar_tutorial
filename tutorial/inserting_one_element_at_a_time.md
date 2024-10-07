@@ -38,6 +38,6 @@ The acceptable types include tuples with length up to `9` as well as arrays.
 The tuples and arrays can contain integers and floating-point numbers.
 In general, an [RTree](https://docs.rs/rstar/latest/rstar/struct.RTree.html) can store elements of type [RTreeObject](https://docs.rs/rstar/latest/rstar/trait.RTreeObject.html).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Inserting Elements In A Batch](./inserting_elements_in_a_batch.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
