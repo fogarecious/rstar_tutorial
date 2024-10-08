@@ -16,7 +16,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Inserting One Element At A Time](./tutorial/inserting_one_element_at_a_time.md)
   * [Inserting Elements In A Batch](./tutorial/inserting_elements_in_a_batch.md)
 * Useful Queries
-  * Existence Queries
+  * [Existence Queries](./tutorial/existence_queries.md)
   * Nearest Neighbor Queries
   * Nearest Neighbor Iterations
   * Range Queries
