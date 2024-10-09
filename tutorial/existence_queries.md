@@ -21,6 +21,6 @@ true
 false
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Nearest Neighbor Queries](./nearest_neighbor_queries.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
