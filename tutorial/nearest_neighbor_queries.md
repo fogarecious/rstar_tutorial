@@ -43,6 +43,6 @@ Output:
 
 Calling [nearest_neighbor](https://docs.rs/rstar/latest/rstar/struct.RTree.html#method.nearest_neighbor) in the example will only return one of `(1, 1)` and `(3, 3)`.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Nearest Neighbor Iterations](./nearest_neighbor_iterations.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

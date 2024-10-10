@@ -18,7 +18,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Useful Queries
   * [Existence Queries](./tutorial/existence_queries.md)
   * [Nearest Neighbor Queries](./tutorial/nearest_neighbor_queries.md)
-  * Nearest Neighbor Iterations
+  * [Nearest Neighbor Iterations](./tutorial/nearest_neighbor_iterations.md)
   * Range Queries
 * Data Types
   * Points
