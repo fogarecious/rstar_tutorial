@@ -19,7 +19,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Existence Queries](./tutorial/existence_queries.md)
   * [Nearest Neighbor Queries](./tutorial/nearest_neighbor_queries.md)
   * [Nearest Neighbor Iterations](./tutorial/nearest_neighbor_iterations.md)
-  * Range Queries
+  * [Range Queries](./tutorial/range_queries.md)
 * Data Types
   * Points
   * Lines

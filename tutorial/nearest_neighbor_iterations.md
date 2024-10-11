@@ -47,6 +47,6 @@ Output:
 
 The distances are calculated by [PointDistance::distance_2](https://docs.rs/rstar/latest/rstar/trait.PointDistance.html#tymethod.distance_2).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Range Queries](./range_queries.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
