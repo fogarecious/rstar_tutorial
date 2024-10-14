@@ -21,7 +21,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Nearest Neighbor Iterations](./tutorial/nearest_neighbor_iterations.md)
   * [Range Queries](./tutorial/range_queries.md)
 * Data Types
-  * Points
+  * [Points](./tutorial/points.md)
   * Lines
   * Rectangles
   * Associating Data

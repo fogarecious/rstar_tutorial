@@ -29,6 +29,6 @@ Output:
 (0, 0)
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Points](./points.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
