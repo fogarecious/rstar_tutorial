@@ -22,7 +22,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Range Queries](./tutorial/range_queries.md)
 * Data Types
   * [Points](./tutorial/points.md)
-  * Lines
+  * [Lines](./tutorial/lines.md)
   * Rectangles
   * Associating Data
 * Other Queries

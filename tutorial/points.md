@@ -30,6 +30,6 @@ Output:
 Arrays are useful when the length of points is more than `9`, which is more than the length implemented for tuples.
 However, the length of arrays must be fixed, so we cannot store `vec![...]`, which has variable length.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Lines](./lines.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
