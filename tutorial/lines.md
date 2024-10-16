@@ -42,6 +42,6 @@ We can obtain the length of a line by [length_2](https://docs.rs/rstar/latest/rs
 
 Similar to points, lines can be constructed in high dimensions.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Rectangles](./rectangles.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

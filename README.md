@@ -23,7 +23,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Data Types
   * [Points](./tutorial/points.md)
   * [Lines](./tutorial/lines.md)
-  * Rectangles
+  * [Rectangles](./tutorial/rectangles.md)
   * Associating Data
 * Other Queries
   * Finding Elements
