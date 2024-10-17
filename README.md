@@ -24,7 +24,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Points](./tutorial/points.md)
   * [Lines](./tutorial/lines.md)
   * [Rectangles](./tutorial/rectangles.md)
-  * Associating Data
+  * [Associating Data](./tutorial/associating_data.md)
 * Other Queries
   * Shooting Elements
   * Rectangle Queries

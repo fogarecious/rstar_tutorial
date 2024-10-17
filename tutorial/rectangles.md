@@ -41,6 +41,6 @@ In the example, we list all the rectangles with both [nearest_points](https://do
 
 Similar to points, rectangles can be constructed in high dimensions.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Associating Data](./associating_data.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
