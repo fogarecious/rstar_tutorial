@@ -33,6 +33,6 @@ Output:
 [GeomWithData { geom: (2, 1), data: "B" }]
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Shooting Elements](./shooting_elements.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
