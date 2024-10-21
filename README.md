@@ -27,7 +27,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Associating Data](./tutorial/associating_data.md)
 * Other Queries
   * [Shooting Elements](./tutorial/shooting_elements.md)
-  * Rectangle Queries
+  * [Rectangle Queries](./tutorial/rectangle_queries.md)
   * Tree Intersections
 * Removal
   * Removing An Element

@@ -31,6 +31,6 @@ There are variants of [locate_at_point](https://docs.rs/rstar/latest/rstar/struc
 * [locate_all_at_point](https://docs.rs/rstar/latest/rstar/struct.RTree.html#method.locate_all_at_point) - it returns multiple elements if there are more than one.
 * [locate_all_at_point_mut](https://docs.rs/rstar/latest/rstar/struct.RTree.html#method.locate_all_at_point_mut) - all the returned elements can be mutated.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Rectangle Queries](./rectangle_queries.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
