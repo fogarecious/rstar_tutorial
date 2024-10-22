@@ -28,7 +28,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Other Queries
   * [Shooting Elements](./tutorial/shooting_elements.md)
   * [Rectangle Queries](./tutorial/rectangle_queries.md)
-  * Tree Intersections
+  * [Tree Intersections](./tutorial/tree_intersections.md)
 * Removal
   * Removing An Element
   * Removing Multiple Elements

@@ -62,6 +62,6 @@ Line { from: (0, 0), to: (1, 1) }
 
 Both methods above have their corresponding mutable version: [locate_in_envelope_mut](https://docs.rs/rstar/latest/rstar/struct.RTree.html#method.locate_in_envelope_mut) and [locate_in_envelope_intersecting_mut](https://docs.rs/rstar/latest/rstar/struct.RTree.html#method.locate_in_envelope_intersecting_mut).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Tree Intersections](./tree_intersections.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
