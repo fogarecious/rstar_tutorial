@@ -45,6 +45,6 @@ Rectangle { aabb: AABB { lower: (1, 1), upper: (3, 3) } }
 
 Note that the intersections are checked by comparing the bounding boxes of the objects instead of comparing their real geometries.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Removing An Element](./removing_an_element.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

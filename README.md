@@ -30,7 +30,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Rectangle Queries](./tutorial/rectangle_queries.md)
   * [Tree Intersections](./tutorial/tree_intersections.md)
 * Removal
-  * Removing An Element
+  * [Removing An Element](./tutorial/removing_an_element.md)
   * Removing Multiple Elements
 * Support For Serde
 * Custom Data Types
