@@ -31,7 +31,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Tree Intersections](./tutorial/tree_intersections.md)
 * Removal
   * [Removing An Element](./tutorial/removing_an_element.md)
-  * Removing Multiple Elements
+  * [Removing Multiple Elements](./tutorial/removing_multiple_elements.md)
 * Support For Serde
 * Custom Data Types
 

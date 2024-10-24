@@ -92,6 +92,6 @@ Rectangle { aabb: AABB { lower: (0.0, 0.0), upper: (1.0, 1.0) } }
 
 These methods all only remove at most one element and return the removed element if any.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Removing Multiple Elements](./removing_multiple_elements.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
