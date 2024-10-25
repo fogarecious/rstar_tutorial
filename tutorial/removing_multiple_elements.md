@@ -108,6 +108,6 @@ Line { from: (2, 2), to: (3, 3) }
 
 Similarly, [drain_in_envelope_intersecting](https://docs.rs/rstar/latest/rstar/struct.RTree.html#method.drain_in_envelope_intersecting) is the corresponding removing method of [locate_in_envelope_intersecting](https://docs.rs/rstar/latest/rstar/struct.RTree.html#method.locate_in_envelope_intersecting).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Support For Serde](./support_for_serde.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
