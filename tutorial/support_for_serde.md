@@ -85,6 +85,6 @@ Points in tree2:
 (0, 0)
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Custom Data Types](./custom_data_types.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
