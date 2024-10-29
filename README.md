@@ -34,7 +34,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Removing Multiple Elements](./tutorial/removing_multiple_elements.md)
 * [Support For Serde](./tutorial/support_for_serde.md)
 * [Custom Data Types](./tutorial/custom_data_types.md)
-* Custom Distances
+* [Custom Distances](./tutorial/custom_distances.md)
 
 ## See Also
 

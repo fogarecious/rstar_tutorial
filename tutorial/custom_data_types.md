@@ -85,6 +85,6 @@ Output:
 Circle { center: (2.0, 2.0), radius: 0.5 }
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Custom Distances](./custom_distances.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
